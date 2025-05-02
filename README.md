@@ -1,91 +1,127 @@
-<h1 align="center">Hi 👋, I'm Durga Prasad Majji</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+Here's a comprehensive, all-in-one GitHub profile README design with multiple visual sections in a cohesive modern style:
 
+```markdown
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&width=550&lines=Hi+👋,+I'm+Durga+Prasad+Majji;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=durga-prasad-majjji&color=7E3ACE&style=flat-square)
+</div>
+
+<!-- Banner divider -->
+<img src="https://raw.githubusercontent.com/DURGA-PRASAD-MAJJJI/DURGA-PRASAD-MAJJJI/main/assets/banner.png" alt="banner">
+
+<!-- About Me Section -->
+### 🧑‍💻 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Durga Prasad Majji"
+        self.role = "Full Stack Developer"
+        self.location = "India"
+        self.passion = "Building innovative solutions"
+        self.skills = {
+            "languages": ["JavaScript", "Python", "Java", "C"],
+            "frontend": ["React", "HTML5", "CSS3", "Tailwind"],
+            "backend": ["Node.js", "Express", "Flask"],
+            "databases": ["MongoDB", "MySQL", "Firebase"],
+            "devOps": ["AWS", "Docker", "Git"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+
+me = Developer()
+me.say_hi()
+```
+
+<!-- Stats Section -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durga-prasad-majjji&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-prasad-majjji&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durga-prasad-majjji&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<!-- Tech Stack Section -->
+### 🛠 Tech Stack
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+web+applications;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,java,c,cpp,android,aws,firebase,docker,git,github,html,css,tailwind&perline=11" alt="Tech Stack" />
 </p>
 
+<!-- Activity Graph -->
+### 📈 Coding Activity
+[![Durga's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durga-prasad-majjji&theme=react-dark&area=true&hide_border=true)](https://github.com/durga-prasad-majjji)
+
+<!-- Projects Section -->
+### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/300x200/7E3ACE/FFFFFF?text=Project+1" width="300">
+        <p>E-commerce platform built with MERN stack</p>
+        <a href="#">View Code</a> • <a href="#">Live Demo</a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/300x200/3A7ECE/FFFFFF?text=Project+2" width="300">
+        <p>Task management application with React Native</p>
+        <a href="#">View Code</a> • <a href="#">Live Demo</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Achievements Section -->
+### 🏆 Achievements
+- 🥇 **LeetCode**: 500+ problems solved
+- ⭐ **GitHub**: Multiple starred repositories
+- 🏅 **AWS Certified** Cloud Practitioner
+- 🚀 **Hackathon** winner at [Event Name]
+
+<!-- Connect Section -->
+### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/majji-durga-prasad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/majji-durga-prasad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/durga_prasad_majji/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/durga_prasad_majji/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://github.com/DURGA-PRASAD-MAJJJI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-## 🔥 My Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durga-prasad-majjji&theme=dark" alt="durga-prasad-majjji" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=durga-prasad-majjji&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-prasad-majjji&layout=compact&theme=radical" />
-</p>
-
-## 🛠️ My Skills
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🚀 Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🗃️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-</p>
-
-### ☁️ Cloud & Hosting
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>
-
-## 📈 GitHub Activity
-
-[![Durga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durga-prasad-majjji&theme=react-dark)](https://github.com/durga-prasad-majjji/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=durga-prasad-majjji&row=2&column=3&theme=onedark" alt="durga-prasad-majjji" />
-</p>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/majji-durga-prasad/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/durga_prasad_majji/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durga-prasad-majjji&label=Profile%20views&color=0e75b6&style=flat" alt="durga-prasad-majjji" /> 
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
+```
+
+### Key Features:
+1. **Modern Header** with animated typing effect
+2. **Interactive About Me** section with code block
+3. **Comprehensive Stats** with multiple visualizations
+4. **Visual Tech Stack** with skill icons
+5. **Activity Graph** showing contribution patterns
+6. **Project Showcase** with placeholder images
+7. **Achievements** section to highlight accomplishments
+8. **Professional Contact** options with badges
+9. **Animated Footer** with waving effect
+
+### Customization Instructions:
+1. Replace placeholder images with your actual project screenshots
+2. Update the project links and descriptions
+3. Add your real email and social media links
+4. Customize the skills in the tech stack section
+5. Modify achievements with your actual accomplishments
+6. For the banner.png, you can create a simple image (1110×250px recommended)
+
+Would you like me to adjust any particular section or add any specific elements to better match your preferences?
