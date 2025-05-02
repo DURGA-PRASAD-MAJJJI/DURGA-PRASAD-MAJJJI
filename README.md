@@ -23,7 +23,7 @@
   - 👯 Looking to collaborate on **impactful open source projects**
   - 💬 Ask me about **React optimization, Node.js performance, or database design**
   - ⚡ Fun fact: **I solve coding problems for fun on weekends**
-  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majji-durga-prasad/) | [Email](mailto:your.email@example.com)
+  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majji-durga-prasad/) | [Email](mailto:durgaprasadmajji65@gmail.com)
 </p>
 
 ## 🛠️ Technical Skills
@@ -52,39 +52,44 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durga-prasad-majjji&theme=dark&hide_border=true)
-  
+
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=durga-prasad-majjji&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-prasad-majjji&layout=compact&theme=radical&hide_border=true" />
   </div>
-  
+
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durga-prasad-majjji&theme=react-dark&hide_border=true&area=true)
-  
+
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=durga-prasad-majjji&row=2&column=3&theme=onedark&no-frame=true&margin-w=10)
 </div>
 
 ## 🏆 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <a href="https://github.com/DURGA-PRASAD-MAJJJI/Medication.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durga-prasad-majjji&repo=project1&theme=radical" />
+  <a href="https://github.com/DURGA-PRASAD-MAJJJI/Medication">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durga-prasad-majjji&repo=Medication&theme=radical" />
   </a>
-  <a href="https://github.com/DURGA-PRASAD-MAJJJI/Sculpt.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durga-prasad-majjji&repo=project2&theme=radical" />
+  <a href="https://github.com/DURGA-PRASAD-MAJJJI/Events-Buddy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durga-prasad-majjji&repo=Events-Buddy&theme=radical" />
   </a>
 </div>
 
 ## 📌 Latest Blog Posts
+
 <!-- Replace with your actual blog posts -->
 - [Optimizing React Performance](https://example.com)
 - [Building Scalable Node.js Applications](https://example.com)
 - [Microservices Architecture Patterns](https://example.com)
 
 ## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/majji-durga-prasad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="durgaprasadmajji65@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/majji-durga-prasad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:durgaprasadmajji65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
