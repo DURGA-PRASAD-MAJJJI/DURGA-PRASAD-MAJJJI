@@ -64,7 +64,14 @@
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=durga-prasad-majjji&row=2&column=3&theme=onedark&no-frame=true&margin-w=10)
 </div>
+###
 
+<h2>📊 LeetCode Stats</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/DURGA_PRASAD_MAJJI/">
+    <img src="https://leetcard.jacoblin.cool/DURGA_PRASAD_MAJJI?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 ## 🏆 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
