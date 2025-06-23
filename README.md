@@ -60,7 +60,6 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-prasad-majjji&layout=compact&theme=radical&hide_border=true" />
   </div>
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durga-prasad-majjji&theme=react-dark&hide_border=true&area=true)
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=durga-prasad-majjji&row=2&column=3&theme=onedark&no-frame=true&margin-w=10)
 </div>
